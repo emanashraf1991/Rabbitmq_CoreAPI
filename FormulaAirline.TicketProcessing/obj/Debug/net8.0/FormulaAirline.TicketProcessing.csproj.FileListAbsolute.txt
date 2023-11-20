@@ -1,0 +1,17 @@
+F:\AirlineProj\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.exe
+F:\AirlineProj\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.deps.json
+F:\AirlineProj\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+F:\AirlineProj\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.dll
+F:\AirlineProj\FormulaAirline.TicketProcessing\bin\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
+F:\AirlineProj\FormulaAirline.TicketProcessing\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.csproj.CopyComplete
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.dll
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\refint\FormulaAirline.TicketProcessing.dll
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.pdb
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+F:\AirlineProj\FormulaAirline.TicketProcessing\obj\Debug\net8.0\ref\FormulaAirline.TicketProcessing.dll
